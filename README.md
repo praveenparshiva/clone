@@ -1,0 +1,1 @@
+The code above is for an Amazon starter page clone. If you click on the "See more" option below the gaming accessories section, it redirects you to another starter page. There is also a functional scroll button in the bottom right corner.
